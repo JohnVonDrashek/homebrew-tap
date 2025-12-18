@@ -2,10 +2,10 @@ cask "praymodoro" do
   version "1.0.2"
   sha256 "PLACEHOLDER_SHA256"
 
-  url "https://github.com/JohnVonDrashek/praymodoro-forge/releases/latest/download/Praymodoro-#{version}-arm64.dmg"
+  url "https://github.com/JohnVonDrashek/praymodoro/releases/latest/download/Praymodoro-#{version}-arm64.dmg"
   name "Praymodoro"
   desc "Prayerful Pomodoro timer with Catholic saints as desktop companions"
-  homepage "https://github.com/JohnVonDrashek/praymodoro-forge"
+  homepage "https://github.com/JohnVonDrashek/praymodoro"
 
   livecheck do
     url :url
