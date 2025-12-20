@@ -1,8 +1,8 @@
 cask "council-of-chalcedon" do
-  version "1.0.22"
-  sha256 "2d7a0a4ffa5d79ebf44402954e5d345c328126f9917fc6db953ff6bb62f1bdc8"
+  version "1.0.24"
+  sha256 "d670ab3f870a75f4bc967a80bbf3cc9717623c0240d3f64124674642a24ace80"
 
-  url "https://github.com/JohnVonDrashek/council-of-chalcedon-vn/releases/download/v1.0.22/CouncilOfChalcedon-1.0.22-macOS.dmg"
+  url "https://github.com/JohnVonDrashek/council-of-chalcedon-vn/releases/download/v1.0.24/CouncilOfChalcedon-1.0.24-macOS.dmg"
   name "Council of Chalcedon"
   desc "Educational visual novel re-enacting the Fourth Ecumenical Council (451 AD)"
   homepage "https://github.com/JohnVonDrashek/council-of-chalcedon-vn"
@@ -12,7 +12,7 @@ cask "council-of-chalcedon" do
     strategy :github_latest
   end
 
-  app "Council of Chalcedon.app"
+  app "CouncilOfChalcedon.app"
 
   zap trash: [
     "~/Library/Saved Application State/com.renpy.councilofchalcedon.savedState",
