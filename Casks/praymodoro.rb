@@ -1,6 +1,6 @@
 cask "praymodoro" do
   version "1.0.2"
-  sha256 "829fe0087350df2d32c8288996147ea6becb224eaa36362e8fe6d64d917d37e6"
+  sha256 "d518e67da236d5b420a5e374d73adf8cc79735ae7b36e1530e4c24a05df89b5b"
 
   url "https://github.com/JohnVonDrashek/praymodoro/releases/latest/download/Praymodoro_#{version}_universal.dmg"
   name "Praymodoro"
