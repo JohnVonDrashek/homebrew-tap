@@ -1,8 +1,8 @@
 cask "council-of-chalcedon" do
-  version "1.0.46"
-  sha256 "54fd1ec2ae481023c4b86b363e7d7f241cc59a1f28ed266cdda14ceca65d7281"
+  version "1.0.48"
+  sha256 "0efc852571c0ad35d9c08fada0fd20c5607cadc2b7873ce76e1248d43b1f3342"
 
-  url "https://github.com/JohnVonDrashek/council-of-chalcedon-vn/releases/download/v1.0.46/CouncilOfChalcedon-1.0.46-macOS.dmg"
+  url "https://github.com/JohnVonDrashek/council-of-chalcedon-vn/releases/download/v1.0.48/CouncilOfChalcedon-1.0.48-macOS.dmg"
   name "Council of Chalcedon"
   desc "Educational visual novel re-enacting the Fourth Ecumenical Council (451 AD)"
   homepage "https://github.com/JohnVonDrashek/council-of-chalcedon-vn"
